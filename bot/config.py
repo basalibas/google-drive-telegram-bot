@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = "952345950" # Sepearted by space.
     SUPPORT_CHAT_LINK = "http://t.me/basaligup2bot"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "437415397941-814jctgdfmul8tp4qoi241dq4dlpbrug.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "Rxcaj3BQ3QiPxPl75myzxdel"
 
 
 class BotCommands:
