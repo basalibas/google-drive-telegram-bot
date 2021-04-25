@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1775716014:AAHAuHwctVJdf5BUUM-aRvfGFCchnoZhAaw"
+    APP_ID = "1893177"
+    API_HASH = "84ce113c503f77e04fcaacc1c0d040f0"
+    DATABASE_URL = "postgres://dkhrjqvsywnnlx:02ff65c56fae1991a60cedc0ebde55ede9a311b63a52026adc6075e45c29f513@ec2-52-23-45-36.compute-1.amazonaws.com:5432/deea2vbjo8jikp"
+    SUDO_USERS = "952345950" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "http://t.me/basaligup2bot"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
